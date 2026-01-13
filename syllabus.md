@@ -75,13 +75,12 @@ assessments](https://en.wikipedia.org/wiki/Formative_assessment) --- meaning
 that there main purpose is to improve your learning, not to assign you a score.
 Hence, the exercises are only scored as complete/incomplete and as long as you
 give it your honest best effort, I will mark them as complete, even if
-GradeScope autograder shows you an imperfect score.  The only thing I ask of
-you is that, when you get an imperfect score, write in the Reflections section
-what difficulty you faced that prevented you from getting a perfect score (if
-you do not write the reflection, I can only assume that you did not spend
-enough effort). I strongly encourage you to actively ask questions when
-something does not work to your instructor or your classmates --- since
-exercises are not graded, you can even share and discuss each other's code!
+GradeScope autograder shows you an imperfect score.  How do I know whether you
+gave a best effort even if you got an imperfect score?  You needed to have
+asked at least one question on the relevant Teams channel about the problem you
+were facing, that has not been asked and answered before.  Since exercises are
+meant to be a learning vehicle, you are encouraged to share and discuss any
+part of your work, including copying and pasting or uploading your code.
 Asking questions is part of the effort you are expected to spend.  Here are the
 10 exercises:
 
